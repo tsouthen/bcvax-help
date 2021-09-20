@@ -13,7 +13,3 @@ If you email the developer for support or other feedback, the emails with email 
 ## Disclosure of Personal Information
 
 We will not disclose your information to any third party except if you expressly consent or where required by law.
-
-## Contacting Us
-
-If you have any questions regarding this privacy policy, you can email bcvaxhelp@gmail.com
