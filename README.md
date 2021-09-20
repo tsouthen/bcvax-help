@@ -28,3 +28,6 @@ You must already have the app installed and setup.
 # Display you card
 Whenever you need to display your card, simply run the app and your downloaded card will be instantly viewable (as long as you've already downloaded it).
 You can pinch to zoom in and out on the card as needed.
+
+#Privacy Policy
+Click [here](privacy_policy.md)
