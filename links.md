@@ -5,3 +5,5 @@
 [Alberta Vaccine Record](https://www.albertavaccinerecord.ca/)
 
 [Ontario Covid-19](https://covid19.ontariohealth.ca/)
+
+[Google](https://www.google.com/)
