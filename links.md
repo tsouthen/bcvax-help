@@ -1,9 +1,12 @@
-# Links
+# Suggested Links
 
-[BC Vaccine Card](https://www.healthgateway.gov.bc.ca/vaccinecard)
+## Get your QR/card
 
-[Alberta Vaccine Record](https://www.albertavaccinerecord.ca/)
+### [BC](https://www.healthgateway.gov.bc.ca/vaccinecard)
 
-[Ontario Covid-19](https://covid19.ontariohealth.ca/)
+### [Alberta](https://www.albertavaccinerecord.ca/)
 
-[Google](https://www.google.com/)
+### [Ontario](https://covid19.ontariohealth.ca/)
+
+## Other links
+### [Google](https://www.google.com/)
